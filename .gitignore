@@ -1,0 +1,30 @@
+```text
+# === Python Bytecode & Cache ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Virtual Environments  ===
+.venv/
+venv/
+env/
+ENV/
+*.venv
+
+# === IDEs and Editors  ===
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# === OS generated files  ===
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# === Logs and databases ===
+*.log
