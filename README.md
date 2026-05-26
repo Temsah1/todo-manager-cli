@@ -1,4 +1,4 @@
-# DecodeLabs — CLI To-Do Manager 
+# DecodeLabs — CLI To-Do Manager 🚀
 
 A robust, terminal-based To-Do List Application built with Python. This project allows users to manage their daily tasks efficiently through a Command Line Interface (CLI) with persistent data storage using JSON.
 
@@ -19,4 +19,30 @@ decodelabs-todo-manager/
 │
 ├── todo_list.py        # Main Python application file
 ├── tasks.json          # Database file (generated automatically)
+├── .gitignore          # File to ignore unnecessary files
 └── README.md           # Project documentation
+```
+
+---
+
+## 🚀 How to Run the Project
+
+### Prerequisites
+Make sure you have **Python 3.x** installed on your system.
+
+### Steps:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/decodelabs-todo-manager.git
+   cd decodelabs-todo-manager
+   ```
+
+2. **Run the application:**
+   ```bash
+   python todo_list.py
+   ```
+
+---
+
+## 🛠️ Built With
+* **Python 3** (Standard Libraries: `json`, `os`, `datetime`)
